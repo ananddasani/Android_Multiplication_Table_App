@@ -1,6 +1,8 @@
 # Multiplication_Table_App
 An App to Remember Multiplication Tables 😁
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### 1st Activity 
@@ -50,8 +52,6 @@ seekBar = findViewById(R.id.seekBar);
 
 # App Highlight
 
-<img src="app_images/Multiplication Table Code.png" width="1000" /><br>
-
-<img src="app_images/Multiplication Table App1.png" width="300" /><br>
-
-<img src="app_images/Multiplication Table App2.png" width="300" /><br>
+![Multiplication Table App1](https://user-images.githubusercontent.com/74413402/192092935-ddba9770-37c6-4d1c-86d7-c0d5f3823cae.png)
+![Multiplication Table App2](https://user-images.githubusercontent.com/74413402/192092941-e0ee64f2-8c04-4a2e-bd6d-abe3fdabe291.png)
+![Multiplication Table Code](https://user-images.githubusercontent.com/74413402/192092943-59c66cf1-5f4e-470b-9ac5-203b395f0e09.png)
